@@ -39,4 +39,4 @@ jobs:
           app-name: 'winfa5604epapp'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F174C017871A4E1592C56460385C612C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED0EA744FB8E48C5B2B9049E0C8303F1 }}
